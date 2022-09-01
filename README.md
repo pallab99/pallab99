@@ -1,8 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pallab Majumdar</h1>
 <h3 align="center">I'm Pallab Majumdar.Currenty studying in Bangladesh University Of Business And Technology(BUBT).Currently i am enrolling last year.I'm a self motivated Competitive Programmer.I love to do code.😀😀🙃🙃</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallab99&label=Profile%20views&color=0e75b6&style=flat" alt="pallab99" /> </p>
 
 
