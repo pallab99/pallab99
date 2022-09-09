@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently studying on **10'th semester in the CSE department of BUBT**
+- 🔭 I’m currently studying on **11'th semester in the CSE department of BUBT**
 
 - 🌱 I’m currently learning **GO language**
 
