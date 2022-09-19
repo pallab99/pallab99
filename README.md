@@ -1,5 +1,6 @@
+<h1 align="center">Hi 👋, I'm Pallab Majumdar</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71664&center=true&vCenter=true&width=450&height=60&lines=Welcome+to+Pallab+Majumdar's+profile;Competitive+Programmer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71664&center=true&vCenter=true&width=450&height=60&lines=Competitive+Programmer;Always+learning+new+things)](https://git.io/typing-svg)
 
 <h3 align="center">I'm Pallab Majumdar.Currenty studying in Bangladesh University Of Business And Technology(BUBT).Currently i am enrolling last year.I'm a self motivated Competitive Programmer.I love to do code.😀😀🙃🙃</h3>
 
