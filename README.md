@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif)](https://rishavchanda.io)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71664&center=true&vCenter=true&width=450&height=60&lines=Welcome+to+Pallab+Majumdar's+profile;Competitive+Programmer;Always+learning+new+things)](https://git.io/typing-svg)
 
