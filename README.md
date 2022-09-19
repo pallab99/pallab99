@@ -40,6 +40,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pallab99&theme=synthwave)](https://git.io/streak-stats)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pallab99&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
