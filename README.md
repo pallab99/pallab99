@@ -1,11 +1,12 @@
 [![MasterHead](https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Pallab Majumdar</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71664&center=true&vCenter=true&width=450&height=60&lines=Welcome+to+Pallab+Majumdar's+profile;Competitive+Programmer;Always+learning+new+things)](https://git.io/typing-svg)
+
 <h3 align="center">I'm Pallab Majumdar.Currenty studying in Bangladesh University Of Business And Technology(BUBT).Currently i am enrolling last year.I'm a self motivated Competitive Programmer.I love to do code.😀😀🙃🙃</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+![](https://komarev.com/ghpvc/?username=pallab99&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallab99&label=Profile%20views&color=0e75b6&style=flat" alt="pallab99" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=pallab99&theme=dark_lover&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently studying on **11'th semester in the CSE department of BUBT**
 
@@ -37,3 +38,9 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pallab99?cardType=level-alternate&theme=synthwave)](https://git.io/awesome-stats-card)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pallab99&theme=synthwave)](https://git.io/streak-stats)
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
