@@ -35,6 +35,8 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 <!-- TODO-IST:START -->
 🏆  200 Karma Points           
 🌸  Completed 0 tasks today           
