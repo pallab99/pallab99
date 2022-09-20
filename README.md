@@ -35,8 +35,8 @@
 
 <!-- TODO-IST:START -->
 🏆  200 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 0 tasks so far           
+🌸  Completed 1 tasks today           
+✅  Completed 1 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 <img src="https://wakatime.com/share/@pallab99/d9083d05-6f67-477c-a385-d172201baaf9.svg" width="500" height="400">
