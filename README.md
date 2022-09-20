@@ -44,7 +44,6 @@
 ✅  Completed 1 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
-<img src="https://wakatime.com/share/@pallab99/d9083d05-6f67-477c-a385-d172201baaf9.svg" width="500" height="400">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pallab99&theme=dark_lover&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -56,6 +55,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=pallab99&theme=synthwave)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pallab99&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
