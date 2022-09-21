@@ -38,14 +38,6 @@
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-<!-- TODO-IST:START -->
-🏆  300 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=pallab99&theme=dark_lover&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pallab99&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
@@ -55,7 +47,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=pallab99&theme=synthwave)](https://git.io/streak-stats)
 
 
-### Coding Stats
+### Weekly Coding Stats
 <!--START_SECTION:waka-->
 
 ```text
