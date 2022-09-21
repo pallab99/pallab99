@@ -1,4 +1,5 @@
 ![](https://github.com/pallab99/My-readme-template/blob/main/image.png)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71664&center=true&vCenter=true&width=450&height=60&lines=Competitive+Programmer;Always+learning+new+things)](https://github.com/pallab99)
 
 <h1> About Me </h1>
