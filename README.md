@@ -4,8 +4,6 @@
 <h1> About Me </h1>
 <h3 align="center">I'm Pallab Majumdar.Currenty studying in Bangladesh University Of Business And Technology(BUBT).Currently i am enrolling last year.I'm a self motivated Competitive Programmer.I love to do code.😀😀🙃🙃</h3>
 
-![](https://komarev.com/ghpvc/?username=pallab99&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
-
 
 <h1>More About Me </h1>
 - 🔭 I’m currently studying on **11'th semester in the CSE department of BUBT**
@@ -19,6 +17,9 @@
 - 📫 How to reach me **majumdarp79@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+![](https://komarev.com/ghpvc/?username=pallab99&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
