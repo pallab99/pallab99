@@ -61,6 +61,10 @@ Other   0 secs          -------------------------   00.30 %
 
 <!--END_SECTION:waka-->
 
+[![wakatime](https://wakatime.com/badge/user/cff2ecd3-0c40-44b5-955a-9898850d0b2b/project/985b159a-cae1-4de2-bc37-6b9775dafbf8.svg)](https://wakatime.com/badge/user/cff2ecd3-0c40-44b5-955a-9898850d0b2b/project/985b159a-cae1-4de2-bc37-6b9775dafbf8) [![wakatime](https://wakatime.com/badge/user/cff2ecd3-0c40-44b5-955a-9898850d0b2b/project/9c465199-96ee-428d-8b52-45ae15cc6ab4.svg)](https://wakatime.com/badge/user/cff2ecd3-0c40-44b5-955a-9898850d0b2b/project/9c465199-96ee-428d-8b52-45ae15cc6ab4)
+
+
+
 ![Metrics](https://metrics.lecoq.io/pallab99?template=classic&base.indepth=true&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pallab99&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
