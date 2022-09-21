@@ -58,8 +58,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++     2 hrs 21 mins   █████████████████████████   99.70 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+From: 19 September 2022 - To: 20 September 2022
+
+Total Time: 2 hrs 21 mins
+
+C++     2 hrs 21 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.70 %
+Other   0 secs          -------------------------   00.30 %
 ```
 
 <!--END_SECTION:waka-->
