@@ -19,9 +19,6 @@
 
 - ⚡ Fun fact **I am funny**
 
-![](https://komarev.com/ghpvc/?username=pallab99&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pallab majumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallab majumdar" height="30" width="40" /></a>
@@ -38,6 +35,8 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pallab99&theme=dark_lover&no-bg=true&no-frame=true&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=pallab99&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallab99&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallab99&theme=2077)
