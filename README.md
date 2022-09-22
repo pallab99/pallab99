@@ -39,11 +39,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pallab99&theme=dark_lover&no-bg=true&no-frame=true&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pallab99&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallab99&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallab99&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pallab99&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallab99&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pallab99&theme=2077&utcOffset=8)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pallab99?cardType=level-alternate&theme=synthwave&layout=compact)](https://git.io/awesome-stats-card)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pallab99&theme=synthwave&layout=compact)](https://git.io/streak-stats)
 
 ### Weekly coding stats
 <!--START_SECTION:waka-->
