@@ -49,6 +49,19 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pallab99&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 19 September 2022 - To: 21 September 2022
+
+Total Time: 3 hrs 2 mins
+
+C++          2 hrs 21 mins   >>>>>>>>>>>>>>>>>>>------   77.16 %
+JavaScript   29 mins         >>>>---------------------   16.36 %
+HTML         6 mins          >------------------------   03.79 %
+INI          2 mins          -------------------------   01.41 %
+Other        2 mins          -------------------------   01.29 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/pallab99?template=classic&base.indepth=true&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka)
