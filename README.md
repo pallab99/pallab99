@@ -45,9 +45,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pallab99&theme=synthwave&layout=compact)](https://git.io/streak-stats)
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pallab99&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+### Weekly coding stats
 <!--START_SECTION:waka-->
 
 ```text
