@@ -19,7 +19,10 @@
 - ⚡ Fun fact **I am funny**
 
 ### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pallab.majumdar.99) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pallab.majumdar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pallab-majumdar-a4a91714a/)  [![codeforces](https://img.shields.io/badge/codeforces-1c97d3?logo=codeforces&logoColor=white)](https://codeforces.com/profile/_pallab_99) [![Leetcode](https://img.shields.io/badge/Leetcode-ff8a00?logo=leetcode&logoColor=white)](https://leetcode.com/pallab1999/) [![Codechef-](https://img.shields.io/badge/Codechef-be6530?logo=codechef&logoColor=white)](https://www.codechef.com/users/pallab99) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pallab.majumdar.99) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pallab.majumdar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pallab-majumdar-a4a91714a/)  
+
+### 🧑‍💻Competitive Programming Profile
+[![codeforces](https://img.shields.io/badge/codeforces-1c97d3?logo=codeforces&logoColor=white)](https://codeforces.com/profile/_pallab_99) [![codeforces](https://img.shields.io/badge/Uva%20Online%20Judge-c31756?logo=uvaonlinejudge&logoColor=white)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)  [![Leetcode](https://img.shields.io/badge/Leetcode-ff8a00?logo=leetcode&logoColor=white)](https://leetcode.com/pallab1999/) [![Codechef-](https://img.shields.io/badge/Codechef-be6530?logo=codechef&logoColor=white)](https://www.codechef.com/users/pallab99) 
 
 
 ### 💻 Tech Stack:
