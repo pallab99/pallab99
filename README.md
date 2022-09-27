@@ -1,11 +1,10 @@
 ![](https://github.com/pallab99/pallab99/blob/main/image.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71664&center=true&vCenter=true&width=450&height=60&lines=Competitive+Programmer;Always+learning+new+things)](https://github.com/pallab99)
 
-### 👨‍ About Me
+### 👨‍ About Me:
 <h3 align="center">I'm Pallab Majumdar.Currenty studying in Bangladesh University Of Business And Technology(BUBT).Currently i am enrolling last year.I'm a self motivated Competitive Programmer.I love to do code.😀😀🙃🙃</h3>
 
-
-### 🧑‍🦰 More About Me
+### 🧑‍🦰 More About Me:
 - 🔭 I’m currently studying on **11'th semester in the CSE department of BUBT**
 
 - 🌱 I’m currently doing **competitive programming**
