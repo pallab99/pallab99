@@ -4,5 +4,5 @@ with:
   filename: metrics.plugin.leetcode.svg
   token: NOT_NEEDED
   base: ""
-  plugin_leetcode: yes
+  plugin_leetcode: pallab1999
   plugin_leetcode_sections: solved, skills, recent
