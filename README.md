@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 September 2022 - To: 30 October 2022
+From: 19 September 2022 - To: 31 October 2022
 
-Total Time: 45 hrs 32 mins
+Total Time: 46 hrs 37 mins
 
-C++          39 hrs 42 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.22 %
-JavaScript   4 hrs 33 mins   >>>----------------------   10.01 %
-HTML         55 mins         >------------------------   02.05 %
-Other        16 mins         -------------------------   00.62 %
+C++          40 hrs 48 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.51 %
+JavaScript   4 hrs 33 mins   >>-----------------------   09.78 %
+HTML         55 mins         >------------------------   02.00 %
+Other        16 mins         -------------------------   00.61 %
 ```
 
 <!--END_SECTION:waka-->
