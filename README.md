@@ -1,4 +1,4 @@
-![](https://github.com/pallab99/pallab99/blob/main/Banner.png)
+![](https://github.com/pallab99/pallab99/blob/main/banner.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71664&center=true&vCenter=true&width=450&height=60&lines=Competitive+Programmer;Always+learning+new+things)](https://github.com/pallab99)
 
 ### 👨‍ About Me:
