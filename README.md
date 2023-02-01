@@ -9,13 +9,12 @@
 
 - 🌱 I’m currently doing **competitive programming**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **majumdarp79@gmail.com**
 
-- ⚡ Fun fact **I am funny** 
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pallab.majumdar.99) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pallab.majumdar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pallab-majumdar-a4a91714a/)  
