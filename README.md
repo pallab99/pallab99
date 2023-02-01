@@ -5,7 +5,7 @@
 <h3 align="center">I'm Pallab Majumdar.Currenty studying in Bangladesh University Of Business And Technology(BUBT).Currently i am enrolling last year.I'm a self motivated Competitive Programmer.I love to do code.😀😀🙃🙃</h3>
 
 ### 🧑‍🦰 More About Me:
-- 🔭 I’m currently studying on **11'th semester in the CSE department of BUBT** <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif">
+- 🔭 I’m currently studying on **12'th semester in the CSE department of BUBT** <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif">
 
 - 🌱 I’m currently doing **competitive programming**
 
