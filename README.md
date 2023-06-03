@@ -43,8 +43,8 @@
 ### Weekly coding stats
 <!--START_SECTION:waka-->
 
-```text
-From: 19 September 2022 - To: 31 May 2023
+```txt
+From: 19 September 2022 - To: 01 June 2023
 
 Total Time: 395 hrs 24 mins
 
