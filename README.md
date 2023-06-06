@@ -40,22 +40,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pallab99&theme=2077&utcOffset=8)
 
 
-### Weekly coding stats
-<!--START_SECTION:waka-->
 
-```txt
-From: 19 September 2022 - To: 04 June 2023
-
-Total Time: 395 hrs 24 mins
-
-JavaScript   175 hrs 19 mins >>>>>>>>>>>--------------   44.34 %
-CSS          64 hrs 56 mins  >>>>---------------------   16.42 %
-C++          55 hrs 18 mins  >>>----------------------   13.99 %
-HTML         41 hrs 29 mins  >>>----------------------   10.49 %
-TypeScript   29 hrs 3 mins   >>-----------------------   07.35 %
-```
-
-<!--END_SECTION:waka-->
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
