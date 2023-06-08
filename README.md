@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71664&center=true&vCenter=true&width=450&height=60&lines=Competitive+Programmer;Always+learning+new+things)](https://github.com/pallab99)
 
 ### 👨‍ About Me:
-<h3 align="center">I'm Pallab Majumdar.Currenty studying in Bangladesh University Of Business And Technology(BUBT).Currently i am enrolling last year.I'm a self motivated Competitive Programmer.I love to do code.😀😀🙃🙃</h3>
+<h2 align="left">I'm Pallab Majumdar.I am a Full Stack software Engineer.I'm a self motivated Competitive Programmer.I love to do code.😀😀🙃🙃</h2>
 
 ### 🧑‍🦰 More About Me:
 - 🔭 **Full Stack Software Engineer** <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif">
