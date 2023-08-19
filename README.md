@@ -43,5 +43,3 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
-![snake gif](https://github.com/pallab99/pallab99/blob/output/github-contribution-grid-snake.gif)
