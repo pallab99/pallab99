@@ -1,5 +1,7 @@
-![](https://github.com/pallab99/pallab99/blob/main/banner.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71664&center=true&vCenter=true&width=450&height=60&lines=Competitive+Programmer;Always+learning+new+things)](https://github.com/pallab99)
+![](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=2000&t=st=1692281384~exp=1692281984~hmac=41f0592a31232aa1e29b4bf409b354898c5de669e0a0f1476c6354447f130caa)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71664&center=true&vCenter=true&width=450&height=60&lines=Competiive+Programmer;Full+Stack+Software+Engineer)](https://github.com/pallab99)
+
 
 <h1>Hi there, I'm Pallab Majumdar 👋</h1>
 <h3 align="left">Traine Software Engineer(MERN) at BJIT Academy</h3>
