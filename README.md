@@ -1,13 +1,19 @@
 ![](https://github.com/pallab99/pallab99/blob/main/banner.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71664&center=true&vCenter=true&width=450&height=60&lines=Competitive+Programmer;Always+learning+new+things)](https://github.com/pallab99)
 
-### 👨‍ About Me:
-<h2 align="left">I'm Pallab Majumdar.I am a Full Stack software Engineer.I'm a self motivated Competitive Programmer.I love to do code.😀😀🙃🙃</h2>
+<h1>Hi there, I'm Pallab Majumdar 👋</h1>
+<h3 align="left">Traine Software Engineer(MERN) at BJIT Academy</h3>
+I'm a passionate Full Stack Web Developer from Bangladesh with experience in building web applications using NextJS, ReactJS, ReduxJS, NodeJS, ExpressJS, HTML, CSS, MySQL, MongoDB, etc. I have a strong foundation in coding, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
-### 🧑‍🦰 More About Me:
-- 🔭 **Full Stack Software Engineer** <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif">
+## 👨🏽‍💻 What I'm working on
+Currently, I am working on Backend Development with NodeJS,ExpressJS and MongoDB at BJIT Academy.
 
-- 🌱 I’m currently doing **competitive programming**
+## 🧠 What I'm currently learning
+I'm currently learning ReactJS, NodeJS,ExpressJS and MongoDB to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
+
+## 💬 Ask me about
+- <b>Topics : </b> Software Development,Web Development,Competetive Programming, Git/GitHub.
+- <b>Technologies : </b>NextJS, ReactJS,ReduxJS NodeJS, ExpressJS,MySQL, MongoDB, HTML, CSS.
 
 - 📫 How to reach me **majumdarp79@gmail.com**
 
