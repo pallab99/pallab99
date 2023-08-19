@@ -44,10 +44,5 @@ I'm currently learning ReactJS, NodeJS,ExpressJS and MongoDB to improve my devel
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pallab99&theme=2077&utcOffset=8)
 
 
-
-
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
